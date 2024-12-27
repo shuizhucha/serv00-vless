@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Argo 域名
-ARGO_DOMAIN="algo-vless.shuizhucha.cf/"
+ARGO_DOMAIN="algo-vless.shuizhucha.cf"
 
 # 失败计数
 ARGO_FAILURE_COUNT=0
